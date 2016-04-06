@@ -1,0 +1,1 @@
+I'm working on "code katas", from http://codekata.com
